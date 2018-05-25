@@ -39,16 +39,14 @@
 	</build>
   
 <distributionManagement>
-    <repository>
-        <id>testpage</id>
-        <name>testpage</name>
-        <url>http://13.232.39.220:8081/nexus/content/repositories/testpage/</url>
-    </repository>
-    <snapshotRepository>
-        <id>testpage2</id>
-        <name>testpage2</name>
-        <url>http://13.232.39.220:8081/nexus/content/repositories/testpage2/</url>
-    </snapshotRepository>
+     <repository>
+    <id>testpage</id>
+    <url>http://13.232.39.220:8081/nexus/content/repositories/testpage</url>
+  </repository>
+     <snapshotRepository>
+    <id>testpage2</id>
+    <url>http://13.232.39.220:8081/nexus/content/repositories/testpage2</url>
+  </snapshotRepository>
 </distributionManagement>
 
 
