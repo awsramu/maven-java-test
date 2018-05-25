@@ -46,7 +46,7 @@
     </repository>
     <snapshotRepository>
         <id>deployment</id>
-        <name>releasessnap</name>
+        <name>releasessnapshot</name>
         <url>http://13.232.39.220:8081/nexus/content/repositories/testpage2/</url>
     </snapshotRepository>
 </distributionManagement>
