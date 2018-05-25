@@ -40,13 +40,13 @@
   
 <distributionManagement>
     <repository>
-        <id>cts-nexus</id>
+        <id>deployment</id>
         <name>bd7e4d6b271d-releases</name>
         <url>http://13.232.39.220:8081/nexus/content/repositories/testpage/</url>
     </repository>
     <snapshotRepository>
         <id>cts-nexus</id>
-        <name>bd7e4d6b271d-snapshots</name>
+        <name>deployment</name>
         <url>http://13.232.39.220:8081/nexus/content/repositories/testpage2/</url>
     </snapshotRepository>
 </distributionManagement>
