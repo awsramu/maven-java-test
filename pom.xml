@@ -41,12 +41,12 @@
 <distributionManagement>
      <repository>
    <id>deployment</id>
-    <name>deployment</name>
+    <name>release-2.0</name>
     <url>http://13.232.39.220:8081/nexus/content/repositories/testpage</url>
   </repository>
      <snapshotRepository>
     <id>deployment</id>
-    <name>deployment</name>
+    <name>releasesnap-2.0</name>
     <url>http://13.232.39.220:8081/nexus/content/repositories/testpage2</url>
   </snapshotRepository>
 </distributionManagement>
