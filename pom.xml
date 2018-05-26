@@ -39,18 +39,17 @@
 	</build>
   
 <distributionManagement>
-     <repository>
-   <id>deployment</id>
-    <name>release-2.0</name>
-    <url>http://13.232.39.220:8081/nexus/content/repositories/testpage</url>
-  </repository>
-     <snapshotRepository>
-    <id>deployment</id>
-    <name>releasesnap-2.0</name>
-    <url>http://13.232.39.220:8081/nexus/content/repositories/testpage2</url>
-  </snapshotRepository>
+    <repository>
+        <id>deployment</id>
+        <name>releases</name>
+        <url>http://35.154.165.115:8081/nexus/content/repositories/webtest/</url>
+    </repository>
+    <snapshotRepository>
+        <id>deployment</id>
+        <name>release-snapshots</name>
+        <url>http://35.154.165.115:8081/nexus/content/repositories/webtestsnap/</url>
+    </snapshotRepository>
 </distributionManagement>
-
 
 
 
