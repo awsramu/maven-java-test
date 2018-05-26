@@ -4,7 +4,7 @@
   <groupId>deployment</groupId>
   <artifactId>my-maventest</artifactId>
   <packaging>jar</packaging>
-  <version>2.0.0</version>
+  <version>2.0.1</version>
   <name>my-maventest</name>
   <url>http://maven.apache.org</url>
 	
