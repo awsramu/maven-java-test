@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.scmgalaxy.mavensample</groupId>
-  <artifactId>my-maven</artifactId>
+  <modelVersion>4.0.1</modelVersion>
+  <groupId>deployment</groupId>
+  <artifactId>my-maventest</artifactId>
   <packaging>jar</packaging>
   <version>2.0.0</version>
-  <name>my-maven</name>
+  <name>my-maventest</name>
   <url>http://maven.apache.org</url>
 	
 <properties>
@@ -50,8 +50,4 @@
         <url>http://13.232.39.220:8081/nexus/content/repositories/testpage2/</url>
     </snapshotRepository>
 </distributionManagement>
-
-
-
-
 </project>
